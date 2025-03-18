@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScannerTester
+comment0.text=\n\ The\ ScannerTester\ tests\ the\ scanner's\ ability\ to\ break\ down\ a\ text\ file\n\ from\ a\ reader\ into\ tokens\ accurately.\n\ The\ individual\ tokens\ processed\ by\ the\ scanner\ are\ printed\ out\ on\ each\ line.\n\ \n\ @author\ Kaitlyn\ Wang\n\ @version\ 9.7.23\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ main\ method\ tests\ whether\ a\ Scanner\ can\ read\ through\ a\ given\ sample\ text\ properly.\ \n\ The\ scanner\ prints\ out\ tokens\ individually\ on\ each\ line\n\n\ @param\ args\ arguments\ from\ the\ command\ line\n
+numComments=2

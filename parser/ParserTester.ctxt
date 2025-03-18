@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ParserTester
+comment0.text=\n\ The\ ParserTester\ tests\ the\ parser's\ ability\ to\ break\ down\ tokens\n\ from\ a\ text\ file\ by\ running\ all\ the\ commands\ until\ the\ end\ of\ file\ is\ \n\ reached.\n\ \n\ @author\ Kaitlyn\ Wang\n\ @version\ 10/6/23\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ main\ method\ tests\ whether\ a\ parser\ can\ process\ a\ given\ sample\ text\ \n\ properly.\ If\ the\ file\ path\ is\ invalid,\ a\ FileNotFoundException\ will\n\ be\ thrown.\n\n\ @param\ args\ arguments\ from\ the\ command\ line\n
+numComments=2
